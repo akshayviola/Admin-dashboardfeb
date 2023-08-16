@@ -1,0 +1,31 @@
+
+
+
+
+Admin dashboard ------Angular project-----work follow
+
+
+1.create  project -----ng new admin-dashboard
+2.run project-------ng serve/s(in project folder)
+3.Install third party libraries
+        
+                    -Angular material
+                            install ------ng add @angular/material
+
+4.To use  any component from material copy the api from particular component and paste it in app module.ts.
+5.Generate component
+
+         -header
+         -footer
+         -sidebar
+         -dashboard
+         -card
+         -area chart
+         -table
+         -pie-chart
+         -employee
+         -gallery
+         -contact 
+         -Leads
+
+@output-------output decorator ------child to parent data communication
